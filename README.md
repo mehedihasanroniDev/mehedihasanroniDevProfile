@@ -3,7 +3,6 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Front+developer+;Proficient+in+HTML+ CSS+JavaScript;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-  <em>
 Highly motivated Front-End Developer (react) with a strong foundation
 in HTML, CSS and JavaScript. Eager to contribute creativity and
 technical skills to dynamic projects, enhancing user experiences
