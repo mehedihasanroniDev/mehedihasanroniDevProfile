@@ -1,10 +1,14 @@
-<h1 align="center">Hi There, I'm Mehedi Hasan Roni</h1>
+<h1 align="center" >Hi There, I'm Mehedi Hasan Roni</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Front+developer+;Senior+Web+Instructor;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Front+developer+;Proficient+in+HTML+ CSS+JavaScript;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
 </p>
 
   <em>
     I am currently working as a Senior Web Instructor at  <a href="https://www.programming-hero.com/"> <b>Programming Hero </b></a>, an edtech company that teach students how to code and help develop skills. Apart from teaching web, developing React projects and solving students' errors, my core responsibility is creating high-quality and engaging web content.
+Highly motivated Front-End Developer (react) with a strong foundation
+in HTML, CSS and JavaScript. Eager to contribute creativity and
+technical skills to dynamic projects, enhancing user experiences
+through responsive and visually appealing web interfaces
 
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
