@@ -1,6 +1,6 @@
 <h1 align="center" >Hi There, I'm Mehedi Hasan Roni</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Front+developer+;Proficient+in+HTML+ CSS+JavaScript;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Front+developer;Proficient+in+HTML+ CSS+JavaScript;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Graduate;Senior+Web+Instructor;Content+Specialist;React+Developer;&center=true&width=500&height=50"></a>
