@@ -76,7 +76,7 @@ through responsive and visually appealing web interfaces
 
 <br/>
  <a align='center' href="https://b-7-mi-12.web.app/">
-    <img align='center' src="https://i.ibb.co/5GS5shr/image.jpg" alt="Logo" width="1000px" height="300">
+    <img align='center' src="[https://i.ibb.co/5GS5shr/image.jpg](https://i.ibb.co/pvzLtZ3/Mhr-boss-restaurant-home-page.png)" alt="Logo" width="1000px" height="300">
   </a>
 
 <br/>
